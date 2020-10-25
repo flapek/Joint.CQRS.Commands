@@ -1,5 +1,10 @@
 # Joint.CQRS.Commands
 
+| Branch  | Build status                                                                                                                             |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| master  | [![Build Status](https://travis-ci.org/flapek/Joint.CQRS.Commands.svg?branch=master)](https://travis-ci.org/flapek/Joint.CQRS.Commands)  |
+| develop | [![Build Status](https://travis-ci.org/flapek/Joint.CQRS.Commands.svg?branch=develop)](https://travis-ci.org/flapek/Joint.CQRS.Commands) |
+
 ## Commands
 
 Adds an ability to create and process commands in the sense of [CQRS](https://martinfowler.com/bliki/CQRS.html).
